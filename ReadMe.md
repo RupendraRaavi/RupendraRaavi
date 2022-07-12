@@ -4,11 +4,15 @@
 I received funding to pursue a Master’s at the University of Ontario Tech, Computer Science (Thesis) Master program. I initially started to work under my professor from my home country. Also, I collaborated with other universities under my professor to work on several Machine Learning research projects.
 
  My experience in Machine Learning includes::
+ 
  ->Two data science internships in my home country where I worked on two complex projects.
+ 
  ->Research assistantship at Zayed University, where I worked on Machine Learning related research 
  project.
+ 
  ->Graduate research assistant at my current university, where I am working on different Machine 
  Learning projects.
+ 
  ->Teaching assistant at my current university.
 
 
