@@ -1,7 +1,6 @@
 # 💫 About Me:
 
-
-I received funding to pursue a Master’s at the University of Ontario Tech, Computer Science (Thesis) Master program. I initially started to work under my professor from my home country. Also, I collaborated with other universities under my professor to work on several Machine Learning research projects.
+I initially started to work under my professor from my home country. Also, I collaborated with other universities under my professor to work on several Machine Learning research projects, then received a offer for fully-funding based Master’s in computer science at the University of Ontario Tech and currently I am in my last semester.
 
  My experience in Machine Learning includes::
  
