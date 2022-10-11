@@ -16,6 +16,9 @@ I received funding to pursue a Master’s at the University of Ontario Tech, Com
  ->Teaching assistant at my current university.
 
 
+![TensorFlow_png](https://user-images.githubusercontent.com/75087581/195215281-5b565255-2d7a-44bd-a055-f8221bb51d95.PNG)
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupendra1998/) 
 
